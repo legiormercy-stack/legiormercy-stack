@@ -10,11 +10,11 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic SIEM Log Analysis Using Splunk          | <a href="https://google.com">Detection Lab</a>|
-| Security Automation Foundations Using Python  |<a href="https://google.com">SOC Automation Project</a>|
-| Security Risk Assessment Fundamentals         |<a href="https://google.com">Basic Cybersecurity Risk Audit</a>|
-| Incident Response Planning and Execution      |<a href="https://google.com">Basic Linux User and Permission Management</a>|
-| Case Management with TheHive                  |<a href="https://google.com">Basic Linux User and Permission Management</a>|
+| Basic SIEM Log Analysis Using Splunk          | <a href="https://google.com">Basic SIEM Log Analysis Using Splunk</a>|
+| Security Automation Foundations Using Python  |<a href="https://google.com">Security Automation Foundations Using Python</a>|
+| Incident Response Using NIST Cybersecurity Framework |<a href="https://google.com">Brute Force Attack Incident Response Analysis</a>|
+| Network Traffic Analysis Using Wireshark      |<a href="https://google.com">Basic Network Traffic Analysis Using Wireshark</a>|
+| Linux System Administration                   |<a href="https://google.com">Basic Linux User and Permission Management</a>|
 
 
 ## Tools
@@ -49,6 +49,8 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Basic Cybersecurity Risk Audit
+- Basic SIEM Log Analysis Using Splunk
+- Security Automation Foundations Using Python
+- Brute Force Attack Incident Response Analysis
+- Basic Network Traffic Analysis Using Wireshark
+- Basic Linux User and Permission Management
