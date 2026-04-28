@@ -10,7 +10,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic SIEM Log Analysis Using Splunk          | <a href="https://google.com">Basic SIEM Log Analysis Using Splunk</a>|
+| Basic SIEM Log Analysis Using Splunk          | <a href="https://github.com/legiormercy-stack/Basic-SIEM-Log-Analysis-Using-Splunk">Basic SIEM Log Analysis Using Splunk</a>|
 | Security Automation Foundations Using Python  |<a href="https://google.com">Security Automation Foundations Using Python</a>|
 | Incident Response Using NIST Cybersecurity Framework |<a href="https://google.com">Brute Force Attack Incident Response Analysis</a>|
 | Network Traffic Analysis Using Wireshark      |<a href="https://google.com">Basic Network Traffic Analysis Using Wireshark</a>|
@@ -49,7 +49,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 </div>
 
 ## Projects
-- Basic SIEM Log Analysis Using Splunk
+- <a href="https://github.com/legiormercy-stack/Basic-SIEM-Log-Analysis-Using-Splunk">Basic SIEM Log Analysis Using Splunk</a>
 - Security Automation Foundations Using Python
 - Brute Force Attack Incident Response Analysis
 - Basic Network Traffic Analysis Using Wireshark
