@@ -50,7 +50,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 
 ## Projects
 - <a href="https://github.com/legiormercy-stack/Basic-SIEM-Log-Analysis-Using-Splunk">Basic SIEM Log Analysis Using Splunk</a>
-- <a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>
+- Security Automation with Python
 - Brute Force Attack Incident Response Analysis
-- Basic Network Traffic Analysis Using Wireshark
+- <a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>
 - Basic Linux User and Permission Management
