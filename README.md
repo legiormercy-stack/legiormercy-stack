@@ -13,7 +13,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 | Basic SIEM Log Analysis Using Splunk          | <a href="https://github.com/legiormercy-stack/Basic-SIEM-Log-Analysis-Using-Splunk">Basic SIEM Log Analysis Using Splunk</a>|
 | Security Automation Foundations Using Python  |<a href="https://google.com">Security Automation Foundations Using Python</a>|
 | Incident Response Using NIST Cybersecurity Framework |<a href="https://google.com">Brute Force Attack Incident Response Analysis</a>|
-| Network Traffic Analysis Using Wireshark      |<a href="https://google.com">Basic Network Traffic Analysis Using Wireshark</a>|
+| Network Traffic Analysis Using Wireshark      |<a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>|
 | Linux System Administration                   |<a href="https://google.com">Basic Linux User and Permission Management</a>|
 
 
@@ -50,7 +50,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 
 ## Projects
 - <a href="https://github.com/legiormercy-stack/Basic-SIEM-Log-Analysis-Using-Splunk">Basic SIEM Log Analysis Using Splunk</a>
-- Security Automation Foundations Using Python
+- <a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>
 - Brute Force Attack Incident Response Analysis
 - Basic Network Traffic Analysis Using Wireshark
 - Basic Linux User and Permission Management
