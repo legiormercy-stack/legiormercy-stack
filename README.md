@@ -1,4 +1,4 @@
-# Hello, I'm Mercy
+# Hello, I'm Mercy Joshua-Firima.
 <a href="https://linkedin.com/in/mercy-joshua-firima-5668a9271"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity enthusiast building foundational skills in security operations, log analysis, and basic security automation using Python. My technical practice includes beginner-level SIEM exploration and Linux security fundamentals. I am seeking an internship opportunity to start developing SOC analyst experience as I work toward a future specialization in security orchestration and automation.
