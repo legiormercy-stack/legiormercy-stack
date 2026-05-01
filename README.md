@@ -14,7 +14,7 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 | Security Automation Foundations Using Python  |<a href="https://github.com/legiormercy-stack/Security-Automation-Foundations-Using-Python/blob/main/README.md">Security Automation Foundations Using Python</a>|
 | Incident Response Using NIST Cybersecurity Framework |<a href="https://google.com">Brute Force Attack Incident Response Analysis</a>|
 | Network Traffic Analysis Using Wireshark      |<a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>|
-| Linux System Administration                   |<a href="https://google.com">Basic Linux User and Permission Management</a>|
+
 
 
 ## Tools
@@ -53,4 +53,4 @@ My objective is to build practical cybersecurity knowledge through hands-on lear
 - <a href="https://github.com/legiormercy-stack/Security-Automation-Foundations-Using-Python/blob/main/README.md">Security Automation Foundations Using Python</a>
 - Brute Force Attack Incident Response Analysis
 - <a href="https://github.com/legiormercy-stack/Basic-Network-Traffic-Analysis-Using-Wireshark/blob/main/README.md">Basic Network Traffic Analysis Using Wireshark</a>
-- Basic Linux User and Permission Management
+
